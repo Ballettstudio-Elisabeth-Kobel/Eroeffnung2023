@@ -26,8 +26,8 @@ DTSTAMP:20230108T195352Z
 UID:1673207612049-87701@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20230119T170000
 DTEND;TZID=Europe/Berlin:20230119T190000
-SUMMARY:Ballettstudio Elisabeth Kobel Eröffnung
-DESCRIPTION: Eröffnung des vergrößerten Ballettstudios 
-LOCATION:Firmiangasse 22 1130 Wien
+SUMMARY:Ballettstudio Elisabeth Kobel - Eröffnung 2023
+DESCRIPTION: Eröffnung des vergrößerten Ballettstudios Elisabeth Kobel.
+LOCATION:Firmiangasse 22, 1130 Wien
 END:VEVENT
 END:VCALENDAR
